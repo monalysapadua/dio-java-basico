@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "ExemploDoWhile",
+            "projectName": "controle-fluxo_c47d1df7"
+        },
+        {
+            "type": "java",
+            "name": "ExemploWhile",
+            "request": "launch",
+            "mainClass": "ExemploWhile",
+            "projectName": "controle-fluxo_c47d1df7"
+        },
+        {
+            "type": "java",
+            "name": "ExemploBreakContinue",
+            "request": "launch",
+            "mainClass": "ExemploBreakContinue",
+            "projectName": "controle-fluxo_c47d1df7"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForEachArray",
+            "request": "launch",
+            "mainClass": "ExemploForEachArray",
+            "projectName": "controle-fluxo_c47d1df7"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForArray",
+            "request": "launch",
+            "mainClass": "ExemploForArray",
+            "projectName": "controle-fluxo_c47d1df7"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "ExemploFor",
+            "projectName": "controle-fluxo_c47d1df7"
+        },
+        {
+            "type": "java",
+            "name": "PlanoOperadoraSwitchCase",
+            "request": "launch",
+            "mainClass": "PlanoOperadoraSwitchCase",
+            "projectName": "controle-fluxo_c47d1df7"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMedidaSwitchCase",
+            "request": "launch",
+            "mainClass": "SistemaMedidaSwitchCase",
+            "projectName": "controle-fluxo_c47d1df7"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMedidaCondicional",
+            "request": "launch",
+            "mainClass": "SistemaMedidaCondicional",
+            "projectName": "controle-fluxo_c47d1df7"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolarTernaria2",
+            "request": "launch",
+            "mainClass": "ResultadoEscolarTernaria2",
+            "projectName": "controle-fluxo_c47d1df7"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolarTernaria",
+            "request": "launch",
+            "mainClass": "ResultadoEscolarTernaria",
+            "projectName": "controle-fluxo_c47d1df7"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
